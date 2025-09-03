@@ -41,6 +41,5 @@
 *.dwo
 
 out/
-deps/
 .vs/
 
